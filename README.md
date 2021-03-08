@@ -4,7 +4,7 @@
 # Como rodar esse script na sua máquina:
 1. Baixar o projeto na sua máquia.
 ```bash
-git clone https://github.com/rafaellaurindo/consulta-cep-python.git
+git clone https://github.com/C4RL0M/CONSULTA-DE-CEP-
 ```
 2. Entrar na pasta do projeto.
 ```bash
@@ -18,4 +18,3 @@ sudo pip3 install -r requirements.txt
 ```bash
 python3 main.py
 ```
-- **Link do vídeo no youtube**: https://www.youtube.com/watch?v=SKlF2PmIkrU
